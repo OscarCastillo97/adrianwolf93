@@ -8,4 +8,7 @@
 - 💬 Puedes pedirme ayuda y con gusto te apoyare 
 - 📫 hector.dominguez@tectijuana.edu.mx
 - ⚡ Algo que muchos no saben es que me gusta leer
--->
+
+## Horario Escolar
+
+![](c.PNG)
