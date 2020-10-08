@@ -11,4 +11,4 @@
 
 ## Horario Escolar
 
-![](c.PNG)
+![](C.PNG)
